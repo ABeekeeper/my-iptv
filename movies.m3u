@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Movie 1" tvg-id="" tvg-logo="" group-title="Arabic Movies",Movie 1 (Arabic)
+https://r466--7umzmh0e.c.scdns.io/stream/v1/hls/_otcho4UgqLAN4ZqU8cssw/1767764434/www.faselhds.biz/all/5.132.59.126/no/NL/0/07-02/2/3cc51a155d3eea43c17708cad0341996/160_hd1080b_playlist.m3u8
+
+#EXTINF:-1 tvg-name="Movie 2" tvg-id="" tvg-logo="" group-title="Arabic Movies",Movie 2 (Arabic)
+https://r466--8katnn5p.c.scdns.io/stream/v1/hls/X8Xau2NB33O-VwDAKhN5MQ/1767764606/www.faselhds.biz/all/5.132.59.126/no/NL/0/08-02/2/e0b32caae011b6c2d5fb623c88baf3a6/160_hd1080b_playlist.m3u8
+
+#EXTINF:-1 tvg-name="Movie 3" tvg-id="" tvg-logo="" group-title="Arabic Movies",Movie 3 (Arabic)
+https://r466--3xa1wlsd.c.scdns.io/stream/v1/hls/LD7RmNyZVm5-t0lU9v6gxQ/1767764769/www.faselhds.biz/all/5.132.59.126/no/NL/0/03-02/1/54aa6d2efff1c66aa39ed0dff191efb7/160_hd1080b_playlist.m3u8
