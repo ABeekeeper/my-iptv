@@ -11,3 +11,47 @@ https://r466--3xa1wlsd.c.scdns.io/stream/v1/hls/LD7RmNyZVm5-t0lU9v6gxQ/176776476
 
 #EXTINF:-1 tvg-name="The Godfather (1972)" tvg-id="" tvg-logo="" group-title="Arabic Movies (VOD)",The Godfather (1972) – Farsi Dubbed
 https://danfm.pishtazmovie.ir/film/The.Godfather/The.Godfather.1972.1080p.Farsi.Dubbed.mkv
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Disney Classics",Snow White and the Seven Dwarfs (1937)
+https://archive.org/download/disney_202105/Snow.White.And.The.Seven.Dwarfs.1937.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Pinocchio (1940)
+https://archive.org/download/disney_202105/Pinocchio.1940.1080p.BluRay.x265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Fantasia (1940)
+https://archive.org/download/disney_202105/Fantasia.1940.720p.BluRay.H.265-Arabic.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Dumbo (1941)
+https://archive.org/download/disney_202105/Dumbo.70th.Anniversary.Edition.1941.MULTi.REPACK.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Bambi (1942)
+https://archive.org/download/disney_202105/Bambi.1942.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Cinderella (1950)
+https://archive.org/download/disney_202105/Cinderella.1950.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Alice in Wonderland (1951)
+https://archive.org/download/disney_202105/Alice.In.Wonderland.1951.1080p.BluRay.x265.Arabic.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Peter Pan (1953)
+https://archive.org/download/disney_202105/Peter.Pan.1953.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Lady and the Tramp (1955)
+https://archive.org/download/disney_202105/Lady.and.the.Tramp.1955.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",Sleeping Beauty (1959)
+https://archive.org/download/disney_202105/Sleeping.Beauty.1959.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",101 Dalmatians (1961)
+https://archive.org/download/disney_202105/101.Dalmatians.1961.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",The Sword in the Stone (1963)
+https://archive.org/download/disney_202105/The.Sword.in.the.Stone.1963.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",The Jungle Book (1967)
+https://archive.org/download/disney_202105/The.Jungle.Book.1967.1080p.BluRay.H.265.Egy.mkv
+
+#EXTINF:-1 group-title="Disney Classics",The Aristocats (1970)
+https://archive.org/download/disney_202105/The.AristoCats.1970.1080p.BluRay.H.265.Egy.mkv
